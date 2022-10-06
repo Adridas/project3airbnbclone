@@ -1,0 +1,29 @@
+
+.hero {
+    margin-left: 2em;
+}
+
+.main-picture {
+    width: 80%;
+    margin: 3em auto;
+    /* margin-top: 2em; */
+    margin-left: 2.2em;
+    
+}
+
+.hero-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%; 
+    margin-top: 0;
+}
+.hero-about {
+    width: 320px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+}
